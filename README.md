@@ -1,7 +1,7 @@
 # Election Analysis with PyPoll
 ## Colorado Election Audit and Analysis
 The goal of this analysis was to use Python to read a .csv file containing voting results for an election consisting of three candidates across three counties in Colorado. The final output came in the form of a total vote tally, vote counts and percentages for each candidate, a determination of the winning candidate with winning vote count and percentage, vote counts and percentages for each county, and a determination of the county with the largest voter turnout. The order of operations for this analysis went:
-1.Calculate the total number of votes cast.
+1. Calculate the total number of votes cast.
 2. Get a complete list of counties that had a turnout.
 3. Calculate the voter turnout for each county.
 4. Calculate the percentage of votes each county cast.
